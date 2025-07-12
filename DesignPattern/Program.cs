@@ -1,5 +1,5 @@
 ﻿
 
-using DesignPattern.patterns.Strategy;
+using DesignPattern.patterns.Factory;
 
-StrategyTest.Process();
+FactoryTest.Process();
